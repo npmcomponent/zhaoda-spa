@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [zhaoda/spa](http://github.com/zhaoda/spa). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/zhaoda-spa`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # SPA [![Build Status](https://travis-ci.org/zhaoda/spa.png?branch=master)](https://travis-ci.org/zhaoda/spa) [![devDependency Status](https://david-dm.org/zhaoda/spa/dev-status.png)](https://david-dm.org/zhaoda/spa#info=devDependencies) [![Total views](https://sourcegraph.com/api/repos/github.com/zhaoda/spa/counters/views.png)](https://sourcegraph.com/github.com/zhaoda/spa)
 
 [SPA](http://zhaoda.github.io/spa/docs/) is designed to build a WebApp view transformation and routing control framework.
